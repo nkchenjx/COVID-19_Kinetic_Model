@@ -9,7 +9,8 @@ To read the data from .csv and analyze the data using SIR, SIRV, and SIRVB model
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11469687/
 
-Application and Significance of SIRVB Model in Analyzing COVID-19 Dynamics. 
+Application and Significance of SIRVB Model in Analyzing COVID-19 Dynamics 
+
 Pavithra Ariyaratne, Lumbini P Ramasinghe, Jonathan S Ayyash, Tyler M Kelley, Terry A Plant-Collins, Logan W Shinkle, Aoife M Zuercher, Jixin Chen
 
 Published on medRxiv and accepted by Scientific Reports under press now.
